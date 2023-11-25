@@ -1,39 +1,39 @@
 - [ ] Preparing
-    - [ ] A
-    - [ ] B
-    - [ ] C
-    - [ ] D
-    - [ ] E
+    - [x] A
+    - [x] B
+    - [x] C
+    - [x] D
+    - [x] E
     - [ ] F
     - [ ] G
-    - [ ] H
-    - [ ] I
+    - [x] H
+    - [x] I
     - [ ] J
 
-- [ ] Homework 1
-    - [ ] A
-    - [ ] B
-    - [ ] C
-    - [ ] D
-    - [ ] E
+- [x] Homework 1
+    - [x] A
+    - [x] B
+    - [x] C
+    - [x] D
+    - [x] E
 
-- [ ] Homework 2
-    - [ ] A
-    - [ ] B
-    - [ ] C
-    - [ ] D
-    - [ ] E
+- [x] Homework 2
+    - [x] A
+    - [x] B
+    - [x] C
+    - [x] D
+    - [x] E
 
-- [ ] Homework 3
-    - [ ] A
-    - [ ] B
-    - [ ] C
-    - [ ] D
-    - [ ] E
+- [x] Homework 3
+    - [x] A
+    - [x] B
+    - [x] C
+    - [x] D
+    - [x] E
 
-- [ ] Homework 4
-    - [ ] A
-    - [ ] B
+- [x] Homework 4
+    - [x] A
+    - [x] B
     - [ ] C
-    - [ ] D
-    - [ ] E
+    - [x] D
+    - [x] E
