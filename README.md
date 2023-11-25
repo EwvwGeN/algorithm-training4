@@ -8,7 +8,7 @@
     - [ ] G
     - [x] H
     - [x] I
-    - [ ] J
+    - [x] J
 
 - [x] Homework 1
     - [x] A
