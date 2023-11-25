@@ -31,7 +31,7 @@
     - [x] D
     - [x] E
 
-- [x] Homework 4
+- [ ] Homework 4
     - [x] A
     - [x] B
     - [ ] C
